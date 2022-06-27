@@ -19,4 +19,4 @@ Proyecto origina:
 * Implementación VizDoom disponible en https://github.com/mwydmuch/ViZDoom
 
 #### SALIDA: VizDoom (Experimento 1)
-<img src= "https://github.com/RenzoAlessandro/Robotica-VizDoom/imagenes/experimento1.png">
+<img src= "https://github.com/RenzoAlessandro/Robotica-VizDoom/blob/main/imagenes/experimento1.png">
