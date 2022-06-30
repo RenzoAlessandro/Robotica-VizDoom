@@ -44,8 +44,7 @@ model_savefile = "/tmp/weights.dump"
 
 # Configuration file path
 config_file_path = os.path.join(vzd.scenarios_path, "simpler_basic.cfg")
-# config_file_path = os.path.join(vzd.scenarios_path, "rocket_basic.cfg")
-# config_file_path = os.path.join(vzd.scenarios_path, "basic.cfg")
+# config_file_path = os.path.join(vzd.scenarios_path, "health_gathering.cfg")
 
 # Converts and downsamples the input image
 def preprocess(img):
